@@ -1,0 +1,7 @@
+[user]
+	email = sergeev.pavel.al@gmail.com
+	name = Pavel Sergeev
+[merge]
+	tool = meld
+[core]
+	editor = vim
